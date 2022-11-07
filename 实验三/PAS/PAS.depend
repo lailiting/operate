@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647263967 source:c:\users\nzhlove\desktop\course\大二下\操作系统\实验三\pas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1647328708 source:c:\users\nzhlove\desktop\course\大二下\操作系统\pas\main.c
+	<stdio.h>
+	<stdlib.h>
+

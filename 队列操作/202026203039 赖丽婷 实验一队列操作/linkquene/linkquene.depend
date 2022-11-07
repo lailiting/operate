@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1646353385 source:c:\users\nzhlove\desktop\course\大二下\操作系统\链式队列\linkquene\main.c
+	"queue.h"
+
+1646352260 c:\users\nzhlove\desktop\course\大二下\操作系统\链式队列\linkquene\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1646357210 source:c:\users\nzhlove\desktop\course\大二下\操作系统\202026203039 赖丽婷 实验一队列操作\linkquene\main.c
+	"queue.h"
+
+1646357480 c:\users\nzhlove\desktop\course\大二下\操作系统\202026203039 赖丽婷 实验一队列操作\linkquene\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
